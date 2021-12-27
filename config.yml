@@ -1,0 +1,4 @@
+delay: "delay in minutes"
+yt-api-key: "api-key"
+tg-api-key: "api-key"
+tg-chat-id: "chat-id"
